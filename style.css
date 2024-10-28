@@ -7,13 +7,13 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     color: #333;
 }
 
 header {
-    background-color: #008080;
-    color: #fff;
+    background-color: #ffbffa;
+    color: #000000;
     padding: 20px;
     text-align: center;
 }
@@ -29,14 +29,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #0a0000;
     text-decoration: none;
 }
 
 #hero {
-    background: url('https://example.com/imagem.jpg') no-repeat center center/cover;
+    background: url('maria.jpg') no-repeat center center/cover;
     height: 400px;
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@ section {
     flex: 1;
     margin: 10px;
     padding: 20px;
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -71,7 +71,7 @@ section {
 form {
     max-width: 600px;
     margin: 20px auto;
-    background: white;
+    background: rgb(0, 0, 0);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -91,7 +91,7 @@ form input, form textarea {
 }
 
 form button {
-    background-color: #008080;
+    background-color: hsl(310, 54%, 74%);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -100,11 +100,11 @@ form button {
 }
 
 form button:hover {
-    background-color: #005f5f;
+    background-color: #eb97cf;
 }
 
 footer {
-    background-color: #008080;
+    background-color: #df86d3;
     color: white;
     text-align: center;
     padding: 10px 0;
