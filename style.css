@@ -34,7 +34,7 @@ nav ul li a {
 }
 
 #hero {
-    background: url('maria.jpg') no-repeat center center/cover;
+    background: url(th.jpg) no-repeat center center/cover;
     height: 400px;
     color: rgb(0, 0, 0);
     display: flex;
@@ -104,7 +104,7 @@ form button:hover {
 }
 
 footer {
-    background-color: #df86d3;
+    background-color: #;
     color: white;
     text-align: center;
     padding: 10px 0;
