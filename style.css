@@ -7,12 +7,12 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #ffffff;
+    background-color: #fdd6ed;
     color: #333;
 }
 
 header {
-    background-color: #ffbffa;
+    background-color: #ee91b4f6;
     color: #000000;
     padding: 20px;
     text-align: center;
@@ -34,10 +34,9 @@ nav ul li a {
 }
 
 #hero {
-    background: url(th.jpg) no-repeat center center/cover;
+    background: url() no-repeat center center/cover;
     height: 400px;
     color: rgb(0, 0, 0);
-    display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -65,16 +64,16 @@ section {
     padding: 20px;
     background: rgb(255, 255, 255);
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(255, 172, 234, 0.747);
 }
 
 form {
     max-width: 600px;
     margin: 20px auto;
-    background: rgb(0, 0, 0);
+    background: rgb(173, 150, 160);
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.836);
 }
 
 form label {
@@ -104,8 +103,8 @@ form button:hover {
 }
 
 footer {
-    background-color: #;
-    color: white;
+    background-color:#ee91b4f6;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 10px 0;
 }
